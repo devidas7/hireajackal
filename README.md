@@ -24,7 +24,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 
 ## Added two modulse
-Bootstrap 3.3.7 - Run `npm install bootstrap@3`
+Bootstrap 3.3.7 - Run `npm install bootstrap@3` <br>
 Jquery Run `npm install jquery`
 
 
