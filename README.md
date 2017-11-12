@@ -23,7 +23,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 
-## Added two modulse
+## Added two modules
 Bootstrap 3.3.7 - Run `npm install bootstrap@3` <br>
 Jquery Run `npm install jquery`
 
